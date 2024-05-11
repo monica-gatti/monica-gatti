@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @monica-gatti
 - 👀 I’m a Java and Python developer
-- 🌱 SpringBoot, Flask, Angular, Typescript, REST API, MVC  
+- 🌱 SpringBoot, Flask, Angular, Typescript,
+- :jigsaw: REST API, MVC, oAuth2  
 - 💞️ I’m looking to collaborate on projects to enhance the capabilities of prediction and classification algorithm
 - :round_pushpin: development of Whatsapp chatboot with classic decision tree
 
