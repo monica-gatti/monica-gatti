@@ -3,7 +3,7 @@
 - 🌱 SpringBoot, Flask, REST API, MVC  
 - 💞️ I’m looking to collaborate on projects to enhance the capabilities of prediction and classification algorithm
 - 📫 How to reach me: gattimonica.it@gmail.com
-- 🧎‍♀️ :biking_woman:
+- 🧎‍♀️ :biking_woman: :basketball_woman:
 
 <!---
 monica-gatti/monica-gatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
