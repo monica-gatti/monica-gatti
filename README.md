@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monica-gatti
+👋 Hi, I’m @monica-gatti
 I’m a Java and Python developer
 My expertise:
 - 🌱 SpringBoot
