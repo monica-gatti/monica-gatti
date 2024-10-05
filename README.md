@@ -9,7 +9,7 @@ My expertise:
 - :jigsaw: REST API, MVC
 - ⛴️ Docker, K8s
 - 🔓 oAuth2
-- MSSQL, MySql, PostGres
+- ⏩ MSSQL, :dolphin: MySql, :elephant: PostGres
 - 💞️ I’m looking to collaborate on projects to enhance the capabilities of prediction and classification algorithm
 - :round_pushpin: development of Whatsapp chatboot with classic decision tree
 - :credit_card: integration of payment method
